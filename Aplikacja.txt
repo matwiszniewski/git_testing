@@ -4,4 +4,8 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-zmiana programu
+   public void logowanie Microsoft() {
+        System.out.println("Podaj nazwę microsoftu");
+        System.out.println("Podaj poprawne hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
